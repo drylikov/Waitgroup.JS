@@ -7,6 +7,3 @@ Tiny implementation of a primitive similar to Go's [WaitGroup](https://golang.or
 ```
 $ npm install drylikov/waitgroup.js
 ```
-
-
-
